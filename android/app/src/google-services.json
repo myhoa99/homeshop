@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "298842093274",
+    "project_id": "homeapp-e8bae",
+    "storage_bucket": "homeapp-e8bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298842093274:android:ef6d29b6ae965003b017e3",
+        "android_client_info": {
+          "package_name": "com.icar.hoantm.homeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298842093274-dgoft3r03k33r9ibvejau7moh4ml5utk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqU9U0AzaqquFU46-dTu7S5svGPtb9YBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298842093274-dgoft3r03k33r9ibvejau7moh4ml5utk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298842093274-bqim14jfbvsjk8b44romfkopftjpeal4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icar.hoantm.homeapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
